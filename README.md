@@ -1,2 +1,3 @@
-# MooviSearch
-Moovi search is a small React.js project.
+# Moovi Search
+
+Moovi is a small project made with React.js.
